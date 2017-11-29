@@ -8,7 +8,7 @@ namespace CraftingClasses
 {
     public class CraftingTAble
     {
-        bool _isWork;
+       private bool _isWork;
         
 
 

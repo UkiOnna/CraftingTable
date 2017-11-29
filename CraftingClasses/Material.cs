@@ -8,8 +8,8 @@ namespace CraftingClasses
 {
     public class Material
     {
-        int _index;
-        int _pos;
+       private int _index;
+        private int _pos;
         public Material(int index,int pos)
         {
             _index = index;

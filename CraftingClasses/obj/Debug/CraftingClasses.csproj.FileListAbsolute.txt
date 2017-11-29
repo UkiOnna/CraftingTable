@@ -1,0 +1,5 @@
+C:\My Documents\Visual Studio 2017\Projects\CraftingTable\CraftingClasses\bin\Debug\CraftingClasses.dll
+C:\My Documents\Visual Studio 2017\Projects\CraftingTable\CraftingClasses\bin\Debug\CraftingClasses.pdb
+C:\My Documents\Visual Studio 2017\Projects\CraftingTable\CraftingClasses\obj\Debug\CraftingClasses.csprojResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2017\Projects\CraftingTable\CraftingClasses\obj\Debug\CraftingClasses.dll
+C:\My Documents\Visual Studio 2017\Projects\CraftingTable\CraftingClasses\obj\Debug\CraftingClasses.pdb
