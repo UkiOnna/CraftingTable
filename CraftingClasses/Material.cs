@@ -9,12 +9,11 @@ namespace CraftingClasses
     public class Material
     {
         int _index;
-        string _name;
         int _pos;
-        public Material(int index,string name,int pos)
+        public Material(int index,int pos)
         {
             _index = index;
-            _name = name;
+           
             _pos = pos;
         }
         public int GetIndex()
@@ -26,14 +25,7 @@ namespace CraftingClasses
             _index = index;
         }
 
-        public string GetName()
-        {
-            return _name;
-        }
-        public void SetName(string name)
-        {
-             _name=name;
-        }
+        
 
         public int GetPos()
         {

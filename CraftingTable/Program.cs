@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using CraftingClasses;
 namespace CraftingTable
 {
     class Program
     {
         static void Main(string[] args)
         {
-           //Console.WriteLine("Начать работу?");
+           
             int[,] table = new int[3, 3];
             for(int i = 0; i < 3; i++)
             {
@@ -21,8 +21,8 @@ namespace CraftingTable
                 }
                 Console.WriteLine();
             }
-            Console.ReadLine();
-           // CraftingTable craft=new CraftingTable(true);
+            Console.WriteLine("Начать работу?");
+           //CraftingTAble craft=new CraftingTAble(true);
             //введите позицию
             //Выберите материал
             //Проверить рецепт      1-топор 2-меч  3-кирка  4-мотыга   5-лопата
