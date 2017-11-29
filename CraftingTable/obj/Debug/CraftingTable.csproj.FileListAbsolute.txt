@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\CraftingTable\CraftingTable\bin\Debug\CraftingTable.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\CraftingTable\CraftingTable\bin\Debug\CraftingTable.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\CraftingTable\CraftingTable\bin\Debug\CraftingTable.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\CraftingTable\CraftingTable\obj\Debug\CraftingTable.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\CraftingTable\CraftingTable\obj\Debug\CraftingTable.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\CraftingTable\CraftingTable\obj\Debug\CraftingTable.pdb
